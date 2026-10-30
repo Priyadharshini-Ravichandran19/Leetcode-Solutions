@@ -1,4 +1,4 @@
-Given a circular integer array nums
+/*Given a circular integer array nums
 (i.e., the next element of nums[nums.length - 1] is nums[0]),
 return the next greater number for every element in nums.
 
@@ -13,8 +13,7 @@ Output: [2,-1,2]
 Example 2:
 Input: nums = [1,2,3,4,3]
 Output: [2,3,4,-1,4]
-
-
+*/
 '''Solution'''
 class Solution {
 public:
