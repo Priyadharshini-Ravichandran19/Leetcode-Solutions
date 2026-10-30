@@ -1,4 +1,4 @@
-1944. Number of Visible People in a Queue
+/*1944. Number of Visible People in a Queue
 Solved
 Hard
 Topics
@@ -17,7 +17,7 @@ Example 1:
 
 Input: heights = [10,6,8,5,11,9]
 Output: [3,1,2,1,1,0]
-
+*/
 '''Solutions'''
 class Solution {
 public:
