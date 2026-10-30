@@ -1,4 +1,4 @@
-Easy
+/*Easy
 The next greater element of some element x in an array is the first greater element 
 that is to the right of x in the same array.
 
@@ -10,14 +10,11 @@ If there is no next greater element, then the answer for this query is -1.
 
 Return an array ans of length nums1.length
 such that ans[i] is the next greater element as described above.
-
- 
-
 Example 1:
 
 Input: nums1 = [4,1,2], nums2 = [1,3,4,2]
 Output: [-1,3,-1]
-
+*/
 '''Solution'''
 class Solution {
 public:
